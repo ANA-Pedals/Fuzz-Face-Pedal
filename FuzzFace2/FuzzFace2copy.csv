@@ -1,0 +1,13 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"R1";"StandardResistorPedal";1;"33k";;;
+2;"C3";"StandardUnpolarizedCapacitorPedal";1;"0.01uF";;;
+3;"R4";"StandardResistorPedal";1;"100k";;;
+4;"R5";"StandardResistorPedal";1;"4.7k";;;
+5;"Q1,Q2";"TO-92_Inline";2;"2SA1015";;;
+6;"R2";"StandardResistorPedal";1;"470";;;
+7;"R3";"StandardResistorPedal";1;"8.2k";;;
+8;"C1";"StandardPolarizedCapacitorPedal";1;"2.2uF";;;
+9;"C2";"StandardPolarizedCapacitorPedal";1;"20uF";;;
+10;"D1";"LED_D5.0mm_Clear";1;"LED";;;
+11;"R_vol1";"StandardPot";1;"500k";;;
+12;"R_fuzz1";"StandardPot";1;"1k";;;
